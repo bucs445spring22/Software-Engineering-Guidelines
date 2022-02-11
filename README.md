@@ -2,16 +2,18 @@
 # CS445: Software Engineering Guidelines
 
 * A portion of your team's final project will be graded against these guidelines and specifications*
+  
+1. Software breaks at the interfaces
+  * If you don't do a system architectural design with well-defined interfaces, integration will be a big mess.You must have some external system architecural design that is kept up to date with your current architecture.
 
+2. Good software is in your head, not the computer"
+  * Design, Design, Design, then design some more. You should spend at least as much time designing your code, before you write a single line, as you will spend coding.
 
-## Rule #1: Software breaks at the interfaces
-If you don't do a system architectural design with well-defined interfaces, integration will be a big mess.You must have some external system architecural design that is kept up to date with your current architecture.
+3. Try to make your development environment as close to your production environment as possible (without giving away secrets) 
+  * Designing the running environment is as important as  designing project itself. Many projects require as much time setting up the running environment as they do for development.
 
-## Rule #2: Good software is in your head, not the computer"
-Design, Design, Design, then design some more. You should spend at least as much time designing your code, before you write a single line, as you will spend coding.
+4. "What takes 1 Dev one month to complete, will will take 2 devs two months, but will be better"
+  * The more people on a project the longer it takes. Adding team members that are new to a project are less productive (1/3 to 2/3 less), so new devs add at minimum 1/3 more time to the timeline.
 
-# Rule #3: "Try to make your development environment as close to your production environment as possible (without giving away secrets)" 
-Designing the running environment is as important as  designing project itself. Many projects require as much time setting up the running environment as they do for development.
-
-# Rule #4: "What takes 1 Dev one month to complete,  will will take 2 devs two months, but will be better"
-The more people on a project the longer it takes. Adding team members that are new to a project are less productive (1/3 to 2/3 less), so new devs add at minimum 1/3 more time to the timeline.
+5. Productivity varies greatly depending knowledge of the tools, methods, and notations used
+  * Invest time in Documentation. Don't write from scratch something that can be easily accomplished with a call to a library. 
