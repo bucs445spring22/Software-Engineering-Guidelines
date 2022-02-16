@@ -6,7 +6,7 @@
 1. Software breaks at the interfaces
     * If you don't do a system architectural design with well-defined interfaces, integration will be a big mess.You must have some external system architecural design that is kept up to date with your current architecture.
 
-2. Good software is in your head, not the computer"
+2. Good software is in your head, not the computer
       * Design, Design, Design, then design some more. You should spend at least as much time designing your code, before you write a single line, as you will spend coding.
 
 3. Try to make your development environment as close to your production environment as possible (without giving away secrets) 
