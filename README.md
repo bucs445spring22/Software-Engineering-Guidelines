@@ -17,3 +17,6 @@
 
 5. Productivity varies greatly depending knowledge of the tools, methods, and notations used
       * Invest time in Documentation. Don't write from scratch something that can be easily accomplished with a call to a library. 
+
+6. Fluctuating and conflicting requirements is a major phenomenon that greatly reduces software productivity and quality  
+      * Each time a component or requirements changes, the amount of work to integrate the change is proportional to how much of the project has already been completed.
