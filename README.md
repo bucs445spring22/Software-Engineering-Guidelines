@@ -25,4 +25,4 @@
       * The client meeting to determine how the software will be used is the most imporant meeting in the software development process. No matter how good your software is, if it doesn't meet the client's needs, it is an unsuccessful software product. 
 
 8. Once a requirement is met, it should be considered frozen until project completion.
-      * If requiremnts are not locked on completion, the project risks feature creep. **Feature Creep** entails constantly adding new capabilities to existing features, rather than tackling incomplete requirements.
+      * If requirements are not locked on completion, the project risks feature creep. **Feature Creep** entails constantly adding new capabilities to existing features, rather than tackling incomplete requirements.
