@@ -21,5 +21,8 @@
 6. Fluctuating and conflicting requirements is a major phenomenon that greatly reduces software productivity and quality  
       * Each time a component or requirements changes, the amount of work to integrate the change is proportional to how much of the project has already been completed.
 
-7. The earlier problems are discovered, the less the overall cost will be
+7. The earlier problems are discovered, the less the overall cost will be.
       * The client meeting to determine how the software will be used is the most imporant meeting in the software development process. No matter how good your software is, if it doesn't meet the client's needs, it is an unsuccessful software product. 
+
+8. Once a requirement is met, it should be considered frozen until project completion.
+      * If requiremnts are not locked on completion, the project risks feature creep. **Feature Creep** entails constantly adding new capabilities to existing features, rather than tackling incomplete requirements.
