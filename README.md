@@ -18,7 +18,7 @@
 5. Productivity varies greatly depending knowledge of the tools, methods, and notations used
       * Invest time in Documentation. Don't write from scratch something that can be easily accomplished with a call to a library. 
 
-6. Fluctuating and conflicting requirements is a major phenomenon that greatly reduces software productivity and quality  
+6. Fluctuating and conflicting requirements reduces software productivity and quality  
       * Each time a component or requirements changes, the amount of work to integrate the change is proportional to how much of the project has already been completed.
 
 7. The earlier problems are discovered, the less the overall cost will be.
@@ -26,3 +26,6 @@
 
 8. Once a requirement is met, it should be considered frozen until project completion.
       * If requirements are not locked on completion, the project risks feature creep. **Feature Creep** entails constantly adding new capabilities to existing features, rather than tackling incomplete requirements.
+
+9. Separate the things that change from the things that stay the same
+      * This applys when talking about single functions or entire applications. Always ask, what may change here and how do I minize that changes impact. 
